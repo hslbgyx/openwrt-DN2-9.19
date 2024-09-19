@@ -14,7 +14,7 @@ name: Update Checker
 
 env:
   REPO_URL: https://github.com/DHDAXCW/lede-rockchip
-  REPO_BRANCH: master
+  REPO_BRANCH: stable
 
 on:
   workflow_dispatch:
